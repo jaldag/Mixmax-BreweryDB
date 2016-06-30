@@ -3,3 +3,11 @@ Mixmax link resolver that will give some information regarding a brewerydb.com/b
 
 It uses HTTPS, so you'll need to generate a key and cert (server.key and server.cert respectively) and put them in the base package
 
+## Running locally
+
+1. Install using `npm install`
+2. Run using `npm start`
+
+##Using Mixmax-BreweryDB
+
+Click Compose and paste a BreweryDB url such as http://www.brewerydb.com/beer/oeGSxs on a new line.

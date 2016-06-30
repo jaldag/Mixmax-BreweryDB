@@ -1,0 +1,29 @@
+{
+  "name": "brewerydb-mixmax-app",
+  "version": "0.1.0",
+  "description": "BreweryDB App for Mixmax",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaldag/Mixmax-BreweryDB.git"
+  },
+  "author": "James Aldag <jamesaldag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaldag/Mixmax-BreweryDB/issues"
+  },
+  "homepage": "https://github.com/jaldag/Mixmax-BreweryDB",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "cors": "^2.7.1",
+    "express": "^4.12.3",
+    "synchronize": "^0.9.14",
+	"brewerydb-node": "0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.7.1"
+  }
+}
