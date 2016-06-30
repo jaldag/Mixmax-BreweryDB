@@ -1,7 +1,7 @@
 # Mixmax-BreweryDB v1.0
 Mixmax link resolver that will give some information regarding a brewerydb.com/beer beer
 
-It uses HTTPS, so you'll need to generate a key and cert (server.key and server.cert respectively) and put them in the base package
+It uses HTTPS, so you'll need to generate a key and cert (server.key and server.cert respectively) and put them in the base package. I used http://www.selfsignedcertificate.com/ for generating my cert.
 
 ## Running locally
 
